@@ -261,7 +261,7 @@ iframe {
 
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 20px;
 
   transition: 1s;
   transition-duration: 0.8s;
