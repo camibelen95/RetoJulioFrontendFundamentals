@@ -61,14 +61,6 @@
     margin-right: 0;
   }
 
-  /* .img-2 {
-    width: 0;
-    height: 0;
-    visibility: hidden;
-
-    margin: 0;
-  } */
-
   .iconos img:hover {
     animation: none;
   }
